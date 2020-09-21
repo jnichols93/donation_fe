@@ -1,6 +1,7 @@
 import React from "react";
 import "../../Styles/Body.scss";
 
+
 function Info() {
   return (
     <div className="info">
